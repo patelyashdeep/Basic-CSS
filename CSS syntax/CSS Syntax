@@ -1,0 +1,20 @@
+Q.How to write Css & rule to write Css
+=>Example:-
+
+p{
+    color:blue;            
+}                           
+
+=>P is the Selector Select HTML elements to style
+=>color is the property name or key
+=>blue is the value of the color 
+
+Q.How to define two properties 
+
+p{
+    color:blue;
+    font-size:12px;            
+}  
+
+=>we can define number properties in p{} Selector
+

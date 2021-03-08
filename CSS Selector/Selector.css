@@ -1,0 +1,18 @@
+.select {
+  color: slateblue;
+  font-size: 50px;
+}
+
+.para {
+  color: steelblue;
+  font-size: larger;
+}
+
+.lorem {
+  color: seagreen;
+  font-size: larger;
+}
+
+#unline {
+  text-decoration: underline;
+}

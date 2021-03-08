@@ -1,0 +1,20 @@
+PART 7 Background
+=>background Image
+=>background repeat
+=>background Postion x and y two values
+=>background size x and y but you can use 
+100% 100% => It will fill the div but it cannot maintain the height and width
+of the image and it cause distortion of the image
+cover:- It will cutout some image to fit the image and avoid distort photo
+Q.When we use Cover??
+=>when we use to insert some pattern in web page
+
+contain:-It will avoid distortion but cannot cut image 
+ratio bigadne ne nahi deta
+=>background attachment
+
+write this all property in single line
+=>background: color url no repeat fixed etc don't use in the beginning
+
+background image you can put 2 Or 3 image url by comma
+and postion decided by comma

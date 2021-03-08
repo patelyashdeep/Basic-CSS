@@ -1,0 +1,96 @@
+Q.Three ways to insert CSS
+
+=>External CSS:-We will make separate file CSS and link in HTML file
+=>Internal CSS:-We will write CSS in HTML of style {}
+=>Inline CSS:-We will write CSS in tags of HTML element
+
+Q.Priority 
+
+=>Inline CSS if it is written in important
+=>In this case:- External and Internal 
+In Head Tag whichever style CSS written last it will be the 2nd most
+Priority
+
+Q.PART 4 Selector are of 3 Types
+=>Element Selector
+=>id Selector
+=>Class Selector
+
+Q.If we add 3 Selector at one element then which will be has more Priority
+=>id
+=>class
+=>Element
+In this order doesn't matter Selector has the Priority
+Order matters when the Selector repeat multiple time in that file and written at the last
+
+PART 5 Comment in CSS
+=>/* Comment */
+=>//
+Q.Why Comment
+=>Understanding
+=>We will be have 5000 or more lines in CSS so in order to remember later we use Comment
+=>If we want to use code  later we can Comment at that time and use it later 
+Ex:-
+=> 
+/* Section Header*/
+//Header start  
+
+/*CSS*/
+
+//Header end
+
+
+
+PART 6 Colors
+In CSS Colors can be specified Using
+=>Predefined Colors =>which are defined by css already built in eg:-red,yellow,blue,etc
+=>RGB
+=>RGBA
+=>HEX
+=>HSL
+=>HSLA
+=>browser support 140color supports
+=>color name in CSS
+
+
+RGB
+=>rgb(red,green,blue)
+=>Color value between 0 and 255 =>Here 0 represents min value of rgb and 255 is the darkest of rgb
+black:rgb(0,0,0)
+white:rgb(255,255,255)
+red:rgb(255,0,0)
+green:rgb(0,255,0)
+blue:rgb(0,0,255)
+
+RGBA
+=>rgba(red,green,blue,alpha)
+=>alpha represent the transparency between 0.0(full transparency) to 1(not transparent at all)
+=>rgba(255,88,56,0.5)
+
+
+HEX
+=>rr(red),gg(green) and bb(blue)
+=>hexadecimal values between 00 and ff (same as decimal 0-255)
+=>red:      #ff0000
+=>green:    #00ff00
+=>blue:     #0000ff
+=>black:    #000000
+=>white:    #ffffff
+
+HSL
+=>hsl(hue,saturation,lightness)
+=>hue is degree on the color wheel from 0 to 360 .
+0 is red
+120is greeen
+240 is blue
+=>saturation is a precentage value, 0% means a shade of gray and 100% is the full color.
+=>lightness is also a percentage,0% is black, 50% is neither light or dark,100% is white
+=>RED:hsl(0,100%,50%)
+
+HSLA
+=>hsla(hue,saturartion,lightness,alpha)
+=>alpha no between 0  and 1
+=>hsla(0,100%,50%,0.5)
+
+
+ 
