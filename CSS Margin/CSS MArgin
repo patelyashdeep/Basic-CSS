@@ -1,0 +1,14 @@
+Margin:The Space Between Border and element which is outside know as Margin
+In padding we cant give negative value but i margin we can give negative value
+
+
+Here margin collapse
+
+Example
+There are two div in that we gave 
+div1 margin bottom 30px 
+div1 margin Top 50px 
+Here Margin collapse and it will be the gap of 50px the greater the px
+it will consider that
+
+It will only for top to bottom

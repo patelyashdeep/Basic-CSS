@@ -1,0 +1,13 @@
+body {
+  border: brown solid;
+}
+
+#div1 {
+  background-color: blueviolet;
+  height: 20%;
+  width: 90%;
+  /* max-width: ;
+  max-height: ;
+  min-height: ;
+  min-width: ; */
+}

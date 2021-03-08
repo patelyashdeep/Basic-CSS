@@ -1,0 +1,13 @@
+BOX MODEL
+=>When you set the width and height properties of an element with CSS,
+you just set the width and height of the content area.
+
+To Calculate the full size of an element,you must also add padding,borders
+and margins
+
+=>Total Element width = width + Left padding + right padding + left border 
++ right border + Left Mrgin + right margin
+
+
+=>Total Element height = height + Top padding + Bottom padding + Top border 
++ Bottom border + Top Mrgin + Bottom margin

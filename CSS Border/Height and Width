@@ -1,0 +1,7 @@
+IN background-color:-
+=>when we set background color by default it is in auto because we
+did't set height and width 
+=>It depends on the content the color will fill that content
+
+Q.How many ways to give height and width 
+=>2 ways =>Px(manual) and percentage

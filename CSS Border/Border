@@ -1,0 +1,28 @@
+PART 8 Border
+Border properties
+=>dotted,dashed,solid,groove,inset,outset
+Border => Top,Right,Bottom,Left =>Apply style 4 param
+=>border width
+Top,Right,Bottom,Left =>Apply style 4 param
+in pixels
+=>border color
+Top,Right,Bottom,Left =>Apply style 4 param
+
+shortcut for all of this
+border: (value) 5px solid green
+
+=>border top
+
+border-top-style
+border-top-width
+border-top-color
+
+=>BORDER radius 
+
+width na hisab thi pixel ma hoy
+pan apde percentage ma pan aapi sakiye
+
+border-radius: 10px 20px
+Top-left 10px and Bottom-right 20px   
+Top-Right 30px and Bottom-left 2px 
+

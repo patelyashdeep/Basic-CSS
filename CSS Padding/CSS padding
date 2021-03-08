@@ -1,0 +1,6 @@
+padding :- The Space between Content and Border is Know as padding
+=>padding-Top
+=>padding-Bottom
+=>padding-Right
+=>padding-Left
+=>Seq=>Top,Right,Bottom,Left
