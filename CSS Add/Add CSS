@@ -85,7 +85,7 @@ HSL
 240 is blue
 =>saturation is a precentage value, 0% means a shade of gray and 100% is the full color.
 =>lightness is also a percentage,0% is black, 50% is neither light or dark,100% is white
-=>RED:hsl(0,100%,50%)
+=>RED:hsl(0,50%,50%)
 
 HSLA
 =>hsla(hue,saturartion,lightness,alpha)

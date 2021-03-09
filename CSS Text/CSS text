@@ -1,0 +1,19 @@
+Text CSS
+Q.How to transform text  => text align : justify,right,center bt default left
+=>direction:ltr etc , when u want to make arab website or text written
+=>vertical align=> top,middel the text position will change 
+=>text-decoration=>underline,overline,line-through,
+=>text-transform=>uppercase,lowercase and capitalize
+=>line-height=>30px, 0px ma overlap thia jase because they dont have height
+=>text indent => first line of lorem will shift to 50px if we give in text indent
+=>letter spacing => will give you space between each character
+=>word spacing =>gap between words
+=>white-space => pre,by default normal j hoy , nowrap
+pre=>etle kevi rete bhi text rakhvo hoy evi rite rakhay
+nowrap=>ekj line ma badha text nakhi devana
+wordwrap=>breakword thi aaaaaaaaaaaaaaaaaaaaaaaaaaa half next line ma aay jase
+(container karta long text hoy tyre (WORDWRAP USE KARISU))
+Parent BODY na hisab thi adjust thai jase
+
+TEXT shadow=> horizontal , Vertical , min(6 to 7 px)blur & color
+writing mode => vertical-rl and vertical-lr
