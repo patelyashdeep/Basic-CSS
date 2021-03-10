@@ -1,0 +1,50 @@
+PART 16 CSS UNITS
+
+=>We use length in width,height,margin,padding,fontsize
+
+=>There are two type of units in CSS
+a)Absolute => Does not dependency
+b)Relative => need dependency
+
+a)Absolute
+
+1.)cm
+2.)Mm
+3.)Inch
+4.)Px    =>More we use Px
+5.)Pt
+6.)Pc
+
+b)Relative
+
+1.)Em
+2.)Rem
+3.)Vh
+4.)Vw   
+5.) %
+
+a)Absolute in CSS
+
+1.)cm
+2.)Mm
+3.)Inch
+4.)Px   (1 inch =96px)
+5.)Pt   (1 inch =72pt)
+6.)Pc   (1pc = 12pt)
+
+b)Relative in CSS
+
+1.)Em =>em is relative to the size of its direct parent
+=>If we give em 1 then it is equal to parent
+=>If we give em 2 then it will multiply to parent
+eg:-parent = 4 then em will be 8 if we want to half wrt to parent
+then we have to multiply by 0.5
+
+2.)Rem => rem is only relative to root(html tag) size
+=>if we dont give style to html tag dont think that there is no style
+=>Browser will assign if we dont assign it   
+
+3.)Vh => 1% of view port height
+4.)Vw => 1% of view port width
+
+5.)% => relative to parent

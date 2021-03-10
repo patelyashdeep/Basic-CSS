@@ -1,0 +1,8 @@
+=>text area resize kari sake for website user
+=>div ne bhi resize kari sakay
+=>resize properties 
+To apply all this we have to consider overflo style in div block
+.both
+.horizontal
+.vertical
+.none

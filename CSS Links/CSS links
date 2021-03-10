@@ -1,0 +1,23 @@
+Anchor tag
+=>Link which is in 4 states
+link => normal state ,color we set that color displat
+visited=>when we visit the link after it turns visitedcolor (we set)
+It shows that we have already visited that link
+hover=>when we move mouse pointer to that link it will hover that color that 
+(we set)
+active=>active means when we click it changes to active color 
+
+=>State define in CSS by 
+1.)Element selector
+a:visited{
+
+}
+2.)id selector
+#ad:visited{
+
+}
+
+*Note
+=>Whenever we use hover the (link) and (visited) should be above the  hover
+and (active) should be lowest (w3 School)
+

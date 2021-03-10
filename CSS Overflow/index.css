@@ -1,0 +1,10 @@
+#over {
+  border: 1px, solid, red;
+  /* background-color: whitesmoke; */
+  background: url("../CSS Background/assets/bg2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 800px;
+  height: 500px;
+  overflow: scroll;
+}

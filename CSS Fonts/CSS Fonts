@@ -1,0 +1,44 @@
+Font
+=>font-size =>give in Pixels generally 
+=>font-style =>Italic normal by default
+=>font-weight   //You can give in Number abd there are bold,bolder,other options
+=>font-variant =>small caps =>means Lorem => Lorem(All will be in capital) 
+but height will be same
+
+=>How to download different font style?
+=>we have photos have different format gif,jpg,png same as
+=>font style have diff format
+=>In Website some common and browser supports the format is ttf,otf and wff
+USE this Format for font style
+
+=>There are 2 ways to include different Font
+1.)Google Font
+2.)Font file download kare and pachi use kare
+
+Q.How to use GoogleFont
+=>GoogleFont
+=>select which font you want
+=>then there are different weights and there are (style=>Thin 100) so we can use that
+style 
+=>we have to write if there is Italic then we have to mention Italic in
+font family
+
+ Q.How to use download font style in CSS
+ =>@fontface{
+     fontfamily
+     src: url
+ }
+
+ More than one font-family is defined by comma in fontfamily 
+ ex:- gist , 'poppin'
+ Why??
+ =>Because browser doesn't supports some font style so if browser dont support
+ by default it will take poppin so its backup
+ Fallback Font
+
+ Q.Sometime it happens when font is not applying Because:-
+ =>Syntax mistake
+ =>Always check the url by downloading 
+
+ Shorthand means  shortcut eg:- padding: top right bottom left
+ 

@@ -1,0 +1,6 @@
+Q.When we use Overflow?
+=>When our content is more than our container of height and width then Overflow
+decide
+=>ex:-Text will  fit otherwise it become hidden and there will be a scrollabar
+=>Overflow is use only in Block element & when you give height
+=>hidden,visible,scroll,auto
