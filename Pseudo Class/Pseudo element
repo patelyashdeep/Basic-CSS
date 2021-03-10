@@ -1,0 +1,12 @@
+syntax:-
+
+selector::pseudoelement{
+
+}
+
+::selection{
+    color
+    background color
+}
+
+pseudoelement=>first-line, h1::before{} and after h1::after{}

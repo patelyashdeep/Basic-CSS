@@ -1,0 +1,14 @@
+#div1 {
+  background-color: brown;
+  height: 200px;
+  width: 600px;
+}
+
+#div2 {
+  background-color: blue;
+  height: 200px;
+  width: 600px;
+  padding: 50px;
+  border: 10px solid black;
+  box-sizing: border-boxs;
+}

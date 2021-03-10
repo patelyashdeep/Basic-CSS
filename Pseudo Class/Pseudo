@@ -1,0 +1,9 @@
+The element special state is know as Pseudo Class
+Example:-
+a:hover,a:visited,a:active are called state
+=>Pseudo class is vast the things we use we will see that only
+
+syntax:-
+selector:Pseudo-class{
+
+}

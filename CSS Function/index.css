@@ -1,0 +1,17 @@
+:root {
+  --primary-color: blue;
+  --btn-color: red;
+}
+
+#fun {
+  background-color: burlywood;
+  height: 200px;
+  width: calc(100% - 200px);
+}
+
+a {
+  padding: 10px 30px;
+  margin: 20px;
+  color: var(--primary-color);
+  background-color: var(--btn-color);
+}

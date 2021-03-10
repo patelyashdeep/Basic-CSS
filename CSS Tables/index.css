@@ -1,0 +1,28 @@
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  table-layout: auto;
+  width: 100%;
+}
+
+caption {
+  border: 1px solid black;
+  /* caption-side: bottom;*/
+}
+
+/* tr {
+  border: 1px solid black;
+} */
+
+th {
+  border: 1px solid black;
+  height: 35px;
+  padding: 15px;
+}
+
+td {
+  border: 1px solid black;
+  height: 30px;
+  padding: 10px;
+  text-align: center;
+}
