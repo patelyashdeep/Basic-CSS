@@ -1,0 +1,7 @@
+Transition
+=>Transition property
+=>Transition Duration
+=>Transition-Timing-Function
+
+
+transition: property , duration, timing-function , dealy;

@@ -1,0 +1,9 @@
+CSS 2D Transform
+Transform
+=>translate(x(px),y(px))
+=>scale(0 , 3) => scaleY(),scaleX()
+=>skew(x,y) => skewX() ,skewY()
+=>rotate(10deg)
+
+=>matrix(scaleX(), skewY(), skewX(), scaleY(), translateX(),translateY())
+should be  in parent Replace this all param with value(0,7,7,etc)

@@ -1,0 +1,88 @@
+/* @keyframes change-color {
+  0% {
+    background-color: red;
+    border-radius: 0%;
+  }
+  10% {
+    background-color: blue;
+    border-radius: 10%;
+  }
+  20% {
+    background-color: yellow;
+    border-radius: 20%;
+  }
+  30% {
+    background-color: green;
+    border-radius: 30%;
+  }
+  40% {
+    background-color: greenyellow;
+    border-radius: 40%;
+  }
+  50% {
+    background-color: hotpink;
+    border-radius: 50%;
+  }
+  60% {
+    background-color: indigo;
+    border-radius: 40%;
+  }
+  70% {
+    background-color: khaki;
+    border-radius: 30%;
+  }
+  80% {
+    background-color: lavender;
+    border-radius: 20%;
+  }
+  90% {
+    background-color: lightcoral;
+    border-radius: 10%;
+  }
+  100% {
+    background-color: lightseagreen;
+    border-radius: 0%;
+  }
+} */
+@keyframes change-width {
+  0% {
+    background-color: red;
+  }
+  25% {
+    width: 300px;
+  }
+  50% {
+    background-color: orange;
+  }
+  75% {
+    width: 200px;
+  }
+  100% {
+    background-color: yellow;
+  }
+}
+
+#animate {
+  height: 200px;
+  width: 200px;
+  margin: 80px;
+  background-color: red;
+  animation-name: change-width;
+  animation-duration: 2s;
+  animation-direction: reverse;
+  /* animation-name: change-color; */
+  animation-iteration-count: infinite;
+}
+
+#animate2 {
+  height: 200px;
+  width: 200px;
+  margin: 80px;
+  background-color: red;
+  animation-duration: 2s;
+  /* animation-name: change-color; */
+  animation-name: change-width;
+  animation-iteration-count: infinite;
+  animation-direction: reverse;
+  /* animation-direction: alternate-reverse; */
+}

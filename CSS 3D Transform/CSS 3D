@@ -1,0 +1,6 @@
+Q.How you can apply CSS 3D CSS Transform?
+=>transform:perspective(300px) rotate3d()
+=>perspective-origins:50% 50%;
+
+transform:perspective(300px) rotate3d(x(0), y(0), z(0), degree) 4 param
+translate3d(x(0), y(0), z(0))

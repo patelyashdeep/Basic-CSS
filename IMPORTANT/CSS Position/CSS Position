@@ -1,0 +1,23 @@
+There are Basically 4 types of Position
+=>Static(normal webflow) Position default
+=>Realtive
+=>Absolute
+=>fixed
+
+2.)Realtive
+Realtive means the element which has property Position:realtive
+=>The element move respect to his current position which we define by top,left,etc
+=>Any element we are giving position realtive it will definetly move from 
+his position but it( will occupy also ) it will not let anyone come to his
+position
+
+3.)Absolute
+=>It will start calc from parent body which has position realtive,Absolute and fixed
+=>So if div has position Absolute it will search for parent that 
+if paren has position Absolute then it will take that refernce
+otherwise it will go for parent's parent that is body still no position given
+then it will act from that position
+
+4.)fixed
+=>fixed calc wrt to viewport from whitespace
+

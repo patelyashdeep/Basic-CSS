@@ -1,0 +1,46 @@
+=>Every Element Consist display property
+.Display property
+=>block
+=>inline
+=>inline-block
+=>none
+
+=>inline-block and none is not in default property
+
+1.)Block
+=>Block Element has Display property by default they have width full by default
+.div
+.p
+.h1 to h6
+.form
+
+//difference
+=>new line
+=>full width
+=>height and width
+
+
+2.)inline
+=>This element vice vers
+.a
+.img
+.span
+
+=>We can make Block element into inline element and vice versa
+
+//difference
+=>not new start
+=>width necessary
+=>no height and width
+
+3.)inline - block
+=>not new start
+=>no full width
+=>height and width
+
+4.)none
+=>It is used give the id to div element to hid from the web
+=>There are two property to hid the div on display
+1.)display:none => It will remove the div1 and it div2 takes place of div2
+2.)visibility:none => in this, div1 will be still there but can't see 
+and it will occupy his space

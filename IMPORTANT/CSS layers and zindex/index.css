@@ -1,0 +1,33 @@
+#parent {
+  padding: 25px;
+  width: 50%;
+  margin: 100px;
+}
+
+#child1 {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  display: inline-block;
+  position: relative;
+}
+
+#child2 {
+  height: 100px;
+  width: 100px;
+  background-color: royalblue;
+  display: inline-block;
+  position: relative;
+  top: 50px;
+  left: -50px;
+}
+
+#child3 {
+  height: 100px;
+  width: 100px;
+  background-color: salmon;
+  display: inline-block;
+  position: relative;
+  top: 100px;
+  left: -100px;
+}

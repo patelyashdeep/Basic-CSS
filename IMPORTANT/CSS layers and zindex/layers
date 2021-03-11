@@ -1,0 +1,9 @@
+Q.How to make Layers in CSS?
+=>For Making Layers wew have to use Position
+1.)Relative
+2.)Absolute
+3.)fixed
+
+Q.how to apply z-index?
+=>Position relative,Absolute and fixed necessary
+=>z-index greater then it will be on top all Layers

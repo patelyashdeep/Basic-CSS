@@ -1,0 +1,27 @@
+#parent {
+  border: 1px solid red;
+  padding: 25px;
+  width: 50%;
+  margin: 100px;
+}
+
+#child1 {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  display: inline-block;
+}
+
+#child2 {
+  height: 100px;
+  width: 100px;
+  background-color: royalblue;
+  display: inline-block;
+}
+
+#child3 {
+  height: 100px;
+  width: 100px;
+  background-color: salmon;
+  display: inline-block;
+}
