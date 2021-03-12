@@ -1,0 +1,12 @@
+Q.Difference between Flexbox and grid?
+=>Both Flexbox and css grid has its own importance and should be used for
+designing a web page.
+=>grid  works for 2D alignment
+=>Flexbox is good for space distribution
+
+CSS grid
+=>Grid Column:-The vertical line of grid items are called columns.
+=>Grid Row:-The Horizontal line of grid items are called rows.
+=>Grid Gaps:-The space between each Column/row are called gaps.(Column gap)(row gap)
+=>Grid Lines:-The Line between columns are called columns lines.
+              The Line between columns are called row lines.

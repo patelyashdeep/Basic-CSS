@@ -1,0 +1,75 @@
+/*1.)Element Selector*/
+
+/* li {
+  color: red;
+} */
+
+/*2.)id Selector*/
+
+/* #list2 {
+  color: red;
+} */
+
+/*3.)class Selector*/
+
+/* .list5 {
+  color: red;
+} */
+
+/*4.)Pseudo class*/
+
+/* a:hover {
+  color: red;
+} */
+
+/*5.)Pseudo Element */
+
+/* p::first-line {
+  color: red;
+} */
+
+/*6.)Attribute Selector*/
+
+/* a[href="https://www.google.com"]
+{
+  color: red;
+} */
+
+/*7.)universal Selector*/
+
+/* * {
+  border: 1px solid red;
+} */
+
+/*8.)Combinator Selector*/
+
+/*i.)Descendant combinatry(child at any stage)*/
+
+/* div a {
+  color: red;
+} */
+
+/*ii.)child combinatry (direct child)*/
+
+/* div > a {
+  color: red;
+} */
+
+/*iii.)Adjacent combinatry(right after sibling) */
+
+/* div + a {
+  color: red;
+} */
+
+/*iv.)General sibling combinatry (all sibling) */
+
+/* div ~ a {
+  color: red;
+} */
+
+/*v.)Add Selector */
+
+/* h1,
+p {
+  color: red;
+} */

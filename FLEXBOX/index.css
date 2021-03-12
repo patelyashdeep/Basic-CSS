@@ -1,0 +1,13 @@
+.flex-container {
+  background-color: wheat;
+  display: flex;
+  flex-wrap: wrap-reverse;
+}
+
+.child {
+  background-color: brown;
+  margin: 20px;
+  padding: 20px;
+  width: 100px;
+  text-align: center;
+}

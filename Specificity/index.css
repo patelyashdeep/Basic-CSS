@@ -1,0 +1,11 @@
+p {
+  color: red;
+}
+
+.key {
+  color: red;
+}
+
+div .key {
+  color: green;
+}

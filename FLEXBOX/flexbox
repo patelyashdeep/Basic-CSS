@@ -1,0 +1,24 @@
+flex-direction =>row,column,row-reverse,column-reverse
+flex-wrap
+=>nowrap=>adjust thai jase size nani karine if vadhre div hoy to
+flex-flow
+=>row wrap
+=>flex-start,flex-end and center =>Justify content
+
+space around =>     (space)element(space)(space)element(space)(space)element(space)
+space between=>      element (space) element (space) element
+align item => evuj rehse jevu che flex-start,flex-end and center
+
+Justify-content => Work Horizontal flex-start,flex-end and center
+align-content => Work vertical  flex-start,flex-end and center
+
+order => child ma lagse agar parent display:-flex hoy
+
+flex-grow:- same as flex it occupy space
+
+flex-shrink=> opposite of flex-grow
+
+flex-basis=>
+
+align-self=>
+

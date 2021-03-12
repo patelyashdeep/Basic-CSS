@@ -1,0 +1,17 @@
+@media screen {
+  p {
+    font-size: 20px;
+  }
+}
+
+@media print {
+  p {
+    font-size: 40px;
+  }
+  img {
+    display: none;
+  }
+  div {
+    width: 50%;
+  }
+}

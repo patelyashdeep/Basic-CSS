@@ -1,0 +1,82 @@
+1.)Type Selector:
+h1{
+    color:red;
+}
+
+2.)id Selector=> <h1 id="key"></h1>
+=>this id will be unique  on that page cannot be used again and apply
+to only one
+
+#key{
+    color:red;
+}
+
+3.)class Selector <h1 class="key (?)"></h1>
+=>this is the class we can give this to anyone to style like h1 
+
+.key{
+    color:red;
+}
+
+4.)Pseudo class and Pseudo element
+
+a:hover{
+    color:red;
+}
+
+Pseudo element
+
+p::first-line{
+    color:red;
+}
+
+5.)Attribute Selector
+=>you can also id or class here #nameofid[href..]
+=>href link will have color red not any other href like facebook.com
+
+a[href="https://google.com"]{
+    color:red
+}
+
+6.)Universal Selector
+=>used when debugging required
+=>It will apply style on every element in html
+
+*{
+    color:red;
+}
+
+7.)Combinator Selector
+
+i)Descendant combinatry(child at any stage)
+=>here we gave space between two Selector
+
+.key span{
+    color:red;
+}
+
+ii)child combinatry (direct child)
+
+.key > span{
+    color:red;
+}
+
+iii)Adjacent combinatry(right after sibling)
+=>it will select sibling which is next to him not others
+
+.key + h1{
+    color:red;
+}
+
+iv)General sibling combinatry (all sibling)
+
+.key~h1{
+    color:red;
+}
+
+v)Add Selector
+General sibling (right after sibling)
+
+.key,h1{
+    color:red
+}
